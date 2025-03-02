@@ -59,7 +59,7 @@ namespace ConsoleApp1
                 }
                 Console.WriteLine();
             }
-
+            //zad5
             int exam = 57;
             if (exam < 0 || exam > 100) { 
             Console.WriteLine("wartosc poza zakresem");
